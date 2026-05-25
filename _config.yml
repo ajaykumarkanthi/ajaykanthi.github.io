@@ -1,0 +1,5 @@
+title: Kanthi Ajay Kumar CyberBlog
+description: Security Writeups & Penetration Testing Portfolio
+theme: jekyll-theme-hacker
+
+permalink: /:year/:month/:day/:title.html
